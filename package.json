@@ -1,0 +1,21 @@
+{
+  "name": "nightmare-speiyou",
+  "version": "0.0.1",
+  "author": "heatroom",
+  "keywords": [
+    "nightmare",
+    "phantomjs",
+    "speiyou"
+  ],
+  "description": "A Nightmare plugin for speiyou.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/airballoon/nightmare-speiyou.git"
+  },
+  "dependencies": {
+    "cheerio": "0.17.0",
+    "nightmare": "1.0.4",
+    "superagent": "~0.17.0"
+  },
+  "devDependencies": {}
+}
