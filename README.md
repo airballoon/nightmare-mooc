@@ -1,4 +1,4 @@
-nightmare-speiyou
+nightmare-mooc
 =================
 
 a crawler plugin using phantomjs and nightware.
